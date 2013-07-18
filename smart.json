@@ -1,0 +1,6 @@
+{
+  "name": "bootstrap-cerulean",
+  "description": "Cerulean theme for bootstrap (based on https://github.com/inhji/meteor-bootstrap-less)",
+  "author": "eprochasson <eprochasson@gmail.com",
+  "version": "0.0.1"
+}
