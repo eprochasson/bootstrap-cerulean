@@ -2,5 +2,7 @@
   "name": "bootstrap-cerulean",
   "description": "Cerulean theme for bootstrap (based on https://github.com/inhji/meteor-bootstrap-less)",
   "author": "eprochasson <eprochasson@gmail.com",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "homepage": "https://github.com/eprochasson/bootstrap-cerulean",
+  "git": "https://github.com/eprochasson/bootstrap-cerulean"
 }
